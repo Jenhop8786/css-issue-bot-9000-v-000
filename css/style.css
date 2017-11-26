@@ -13,9 +13,6 @@ h2 {
   font-style: italic;
 }
 
-.completed {
-  font-family: 12px;
-}
 
 #tasks .completed
   backgound: #ccc;
